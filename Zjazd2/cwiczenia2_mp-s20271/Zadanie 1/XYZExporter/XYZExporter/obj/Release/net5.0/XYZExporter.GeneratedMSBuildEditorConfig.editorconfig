@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = XYZExporter
+build_property.ProjectDir = C:\Users\Super_konputer\Documents\PJATK\6 semestr\05 APBD\Zadania\APBD\Zjazd2\cwiczenia2_mp-s20271\Zadanie 1\XYZExporter\XYZExporter\

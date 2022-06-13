@@ -14,7 +14,7 @@ namespace Cwiczenia5.Controllers
     {
         private readonly IDbService _dbService;
 
-        private TripsController(IDbService dbService)
+        public TripsController(IDbService dbService)
         {
             _dbService = dbService;
         }
@@ -26,5 +26,11 @@ namespace Cwiczenia5.Controllers
             return Ok(trips);
         }
 
+        [HttpDelete]
+        public async Task<IActionResult> RemoveTrip(int id)
+        {
+            await _dbService.RemoveTrip(id);
+            return Ok("Removed");
+        }
     }
 }

@@ -1,0 +1,6 @@
+Zadanie1: https://github.com/s20271/APBD-Zadania/tree/main/Zjazd1
+Zadanie2: https://github.com/s20271/APBD-Zadania/tree/main/Zjazd2
+Zadanie3: https://github.com/s20271/APBD-Zadania/tree/main/Zjazd3/cwiczenia3
+Zadanie4: https://github.com/s20271/APBD-Zadania/tree/main/Zjazd4/LinqCwiczenia2
+Zadanie5: https://github.com/s20271/APBD-Zadania/tree/main/Zjazd5/Cwiczenia5
+Zadanie6: https://github.com/s20271/APBD-Zadania/tree/main/Zjazd6/Cwiczenie6

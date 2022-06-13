@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Cwiczenia5.Services
 {
-    interface IDbService
+    public interface IDbService
     {
         Task<IEnumerable<SomeSortOfTrip>> GetTrips();
+        Task RemoveTrip(int id);
     }
 }

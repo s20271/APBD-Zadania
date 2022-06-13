@@ -19,6 +19,7 @@ namespace Cwiczenia5.Services
         public async Task<IEnumerable<SomeSortOfTrip>> GetTrips()
         {
             return await _context.Trips
+                .OrderByDescending(e=>e.DateFrom)
                 .Select(e => new SomeSortOfTrip
                 {
                 Name = e.Name,
